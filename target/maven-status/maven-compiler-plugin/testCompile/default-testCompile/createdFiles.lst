@@ -1,0 +1,9 @@
+testCases\BaseClass.class
+utilities\XLS_Reader.class
+testCases\TC_Login_001.class
+pageObjects\LoginPage.class
+utilities\XLUtils.class
+utilities\Reporting.class
+testCases\TC_FlightTicket_003.class
+testCases\TC_RegisterDDT_002.class
+utilities\ReadConfig.class

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="mercuryTours">
+
+	<listeners>
+		<listener class-name="utilities.Reporting" />
+	</listeners>
+
+	<test name="Mercury App Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="testCases.TC_Login_001" />
+			<class name="testCases.TC_RegisterDDT_002" />
+			<class name="testCases.TC_FlightTicket_003" />
+		</classes>
+
+	</test>
+
+</suite>

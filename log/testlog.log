@@ -1,0 +1,111 @@
+2020-04-03 23:41:48,199 - linkedin -INFO - entered url
+2020-04-03 23:41:48,787 - linkedin -INFO - entered username
+2020-04-03 23:41:48,907 - linkedin -INFO - entered password
+2020-04-03 23:41:56,065 - linkedin -INFO - signin button clicked
+2020-04-03 23:42:40,382 - linkedin -INFO - entered url
+2020-04-03 23:42:40,647 - linkedin -INFO - entered username
+2020-04-03 23:42:40,751 - linkedin -INFO - entered password
+2020-04-03 23:42:46,097 - linkedin -INFO - signin button clicked
+2020-04-03 23:42:46,113 - linkedin -INFO - login test passed
+2020-04-03 23:45:55,151 - linkedin -INFO - entered url
+2020-04-03 23:45:55,402 - linkedin -INFO - entered username
+2020-04-03 23:45:55,538 - linkedin -INFO - entered password
+2020-04-03 23:46:00,934 - linkedin -INFO - signin button clicked
+2020-04-03 23:46:00,949 - linkedin -INFO - login test passed
+2020-04-03 23:56:54,414 - linkedin -INFO - entered url
+2020-04-03 23:56:55,486 - linkedin -INFO - entered username
+2020-04-03 23:56:55,598 - linkedin -INFO - entered password
+2020-04-03 23:57:01,491 - linkedin -INFO - signin button clicked
+2020-04-03 23:57:01,512 - linkedin -INFO - login test passed
+2020-04-03 23:57:02,437 - linkedin -INFO - logout successfully
+2020-04-04 12:24:44,467 - linkedin -INFO - entered url
+2020-04-04 12:24:44,643 - linkedin -INFO - entered username
+2020-04-04 12:24:44,730 - linkedin -INFO - entered password
+2020-04-04 12:25:21,402 - linkedin -INFO - signin button clicked
+2020-04-04 12:25:21,416 - linkedin -INFO - login test passed
+2020-04-04 12:25:22,137 - linkedin -INFO - logout successfully
+2020-04-04 12:30:07,577 - linkedin -INFO - entered url
+2020-04-04 12:30:07,702 - linkedin -INFO - entered username
+2020-04-04 12:30:07,797 - linkedin -INFO - entered password
+2020-04-04 12:30:31,575 - linkedin -INFO - signin button clicked
+2020-04-04 12:30:31,610 - linkedin -INFO - login test passed
+2020-04-04 12:30:32,218 - linkedin -INFO - logout successfully
+2020-04-04 12:36:31,092 - linkedin -INFO - entered url
+2020-04-04 12:36:31,223 - linkedin -INFO - entered username
+2020-04-04 12:36:31,336 - linkedin -INFO - entered password
+2020-04-04 12:36:36,726 - linkedin -INFO - signin button clicked
+2020-04-04 12:36:36,739 - linkedin -INFO - login test passed
+2020-04-04 12:36:37,555 - linkedin -INFO - logout successfully
+2020-04-04 12:39:16,745 - linkedin -INFO - entered url
+2020-04-04 12:39:16,906 - linkedin -INFO - entered username
+2020-04-04 12:39:17,021 - linkedin -INFO - entered password
+2020-04-04 12:39:22,253 - linkedin -INFO - signin button clicked
+2020-04-04 12:39:22,267 - linkedin -INFO - login test passed
+2020-04-04 12:39:22,957 - linkedin -INFO - logout successfully
+2020-04-04 12:40:20,279 - linkedin -INFO - entered url
+2020-04-04 12:40:20,455 - linkedin -INFO - entered username
+2020-04-04 12:40:20,551 - linkedin -INFO - entered password
+2020-04-04 12:40:25,973 - linkedin -INFO - signin button clicked
+2020-04-04 12:40:25,987 - linkedin -INFO - login test passed
+2020-04-04 12:40:26,754 - linkedin -INFO - logout successfully
+2020-04-04 15:22:17,556 - linkedin -INFO - login successfull
+2020-04-04 15:49:45,810 - linkedin -INFO - login successfull
+2020-04-04 16:07:08,030 - linkedin -INFO - login successfull
+2020-04-04 16:30:42,269 - linkedin -INFO - login successfull
+2020-04-04 16:49:07,015 - linkedin -INFO - login successfull
+2020-04-04 17:01:26,437 - linkedin -INFO - login successfull
+2020-04-04 19:48:32,894 - linkedin -INFO - login successfull
+2020-04-04 19:50:21,160 - linkedin -INFO - login successfull
+2020-04-04 19:50:22,730 - linkedin -INFO - departure flight selected
+2020-04-04 19:50:22,807 - linkedin -INFO - return flight selected
+2020-04-04 22:31:20,528 - linkedin -INFO - login successfull
+2020-04-04 22:31:22,911 - linkedin -INFO - departure flight selected
+2020-04-04 22:31:22,997 - linkedin -INFO - return flight selected
+2020-04-04 22:31:23,716 - linkedin -INFO - clicked on continue
+2020-04-04 22:34:08,006 - linkedin -INFO - login successfull
+2020-04-04 22:34:09,825 - linkedin -INFO - departure flight selected
+2020-04-04 22:34:41,911 - linkedin -INFO - login successfull
+2020-04-04 22:34:43,577 - linkedin -INFO - departure flight selected
+2020-04-04 22:34:43,649 - linkedin -INFO - return flight selected
+2020-04-04 22:34:44,196 - linkedin -INFO - clicked on continue
+2020-04-04 22:50:31,952 - linkedin -INFO - login successfull
+2020-04-04 22:50:33,741 - linkedin -INFO - departure flight selected
+2020-04-04 22:50:33,822 - linkedin -INFO - return flight selected
+2020-04-04 22:50:34,630 - linkedin -INFO - clicked on continue
+2020-04-04 22:51:24,890 - linkedin -INFO - login successfull
+2020-04-04 22:51:26,528 - linkedin -INFO - departure flight selected
+2020-04-04 22:51:26,608 - linkedin -INFO - return flight selected
+2020-04-04 22:51:27,347 - linkedin -INFO - clicked on continue
+2020-04-04 22:53:38,444 - linkedin -INFO - login successfull
+2020-04-04 22:53:40,093 - linkedin -INFO - departure flight selected
+2020-04-04 22:53:40,186 - linkedin -INFO - return flight selected
+2020-04-04 22:53:40,918 - linkedin -INFO - clicked on continue
+2020-04-04 22:53:47,888 - linkedin -INFO - your flight has been confirmed
+2020-04-04 22:54:53,592 - linkedin -INFO - login successfull
+2020-04-04 22:54:55,334 - linkedin -INFO - departure flight selected
+2020-04-04 22:54:55,429 - linkedin -INFO - return flight selected
+2020-04-04 22:54:56,100 - linkedin -INFO - clicked on continue
+2020-04-04 22:55:03,069 - linkedin -INFO - your flight has been confirmed
+2020-04-04 22:55:47,321 - linkedin -INFO - login successfull
+2020-04-04 22:55:49,497 - linkedin -INFO - departure flight selected
+2020-04-04 22:55:49,633 - linkedin -INFO - return flight selected
+2020-04-04 22:55:50,308 - linkedin -INFO - clicked on continue
+2020-04-04 22:55:57,747 - linkedin -INFO - your flight has been confirmed
+2020-04-07 17:36:21,243 - linkedin -INFO - entered url
+2020-04-07 17:36:22,145 - linkedin -INFO - entered username
+2020-04-07 17:36:22,243 - linkedin -INFO - entered password
+2020-04-07 17:36:27,918 - linkedin -INFO - signin button clicked
+2020-04-07 17:36:27,936 - linkedin -INFO - login test passed
+2020-04-07 17:36:28,676 - linkedin -INFO - logout successfully
+2020-04-07 17:37:13,107 - linkedin -INFO - login successfull
+2020-04-07 17:37:14,605 - linkedin -INFO - departure flight selected
+2020-04-07 17:37:14,692 - linkedin -INFO - return flight selected
+2020-04-07 17:37:15,402 - linkedin -INFO - clicked on continue
+2020-04-07 17:37:22,460 - linkedin -INFO - your flight has been confirmed
+2020-05-04 22:08:08,373 - linkedin -INFO - entered url
+2020-05-04 22:08:17,572 - linkedin -INFO - entered username
+2020-05-04 22:08:27,573 - linkedin -INFO - entered password
+2020-05-04 22:08:49,333 - linkedin -INFO - signin button clicked
+2020-05-04 22:08:49,355 - linkedin -INFO - login test passed
+2020-05-04 22:08:50,000 - linkedin -INFO - logout successfully
+2020-05-04 22:10:03,259 - linkedin -INFO - login successfull
